@@ -3,3 +3,6 @@
 <?php echo "Hello World!"; ?>
 
 <?php echo "New dawn, new Day";?>
+
+/* Just checking to make sure you remembered to FETCH */
+/* lol */
